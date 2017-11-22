@@ -309,7 +309,6 @@
                             name: formatValidatorName(validatorTemplate.name),
                             message: message
                           },
-=======
 
 	var createdElements = [];
 
