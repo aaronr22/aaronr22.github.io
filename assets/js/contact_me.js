@@ -1,5 +1,4 @@
 $(function() {
-<<<<<<< HEAD
     
      $("input,textarea").jqBootstrapValidation(
         {
@@ -130,4 +129,3 @@ $(function() {
 $('#name').focus(function() {
      $('#success').html('');
   });
->>>>>>> 1c4a2b502e70f852a646c8675c7ad442beecc4dc
