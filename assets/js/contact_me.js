@@ -63,8 +63,7 @@ $(function() {
     $('#name').focus(function() {
          $('#success').html('');
       });
-    
-=======
+   
 
  $("input,textarea").jqBootstrapValidation(
     {
